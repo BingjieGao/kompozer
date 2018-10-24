@@ -1,0 +1,25 @@
+{
+  "name": "kompozer",
+  "version": "0.1.0",
+  "description": "connector mudule for composing gintma and overload",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BingjieGao/kompozer.git"
+  },
+  "keywords": [
+    "kompozer",
+    "nodejs",
+    "gintma",
+    "overload"
+  ],
+  "author": "Bingjie Gao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BingjieGao/kompozer/issues"
+  },
+  "homepage": "https://github.com/BingjieGao/kompozer#readme"
+}
